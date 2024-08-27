@@ -1,0 +1,3 @@
+hello there good day
+this is a sample file
+to use for file operations
